@@ -1,1 +1,22 @@
-
+    body{
+       background-color: gray ;
+       }
+       h1{
+       color:green;
+       text-align:center ;
+       border:solid;color:white;
+       border-radius: 20px;
+       border: 2px solid white;  
+       }
+       #p1{
+       color:red;  
+       font-size: 2em;
+       text-align: center
+         
+       }
+       table{
+       color:white;
+       border:solid;color:white; 
+       border-radius:20px;
+       
+       }
